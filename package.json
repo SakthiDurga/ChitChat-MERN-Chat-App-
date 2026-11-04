@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/SakthiDurga/ChitChat-MERN-Chat-App-/issues"
   },
-  "homepage": "https://github.com/SakthiDurga/ChitChat-MERN-Chat-App-#readme"
+  "homepage": "https://github.com/SakthiDurga/ChitChat-MERN-Chat-App-#readme",
+  "dependencies": {
+    "nodemailer": "^10.0.13"
+  }
 }
